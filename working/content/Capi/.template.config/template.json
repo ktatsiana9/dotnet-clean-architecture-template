@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Tatsiana Kazliakouskaya",
+  "classifications": [
+      "Web",
+      "Clean Architecture Project",
+      "API",
+      "Microservice"
+  ],
+  "identity": "ktatsiana.cleanarchitecture.template",
+  "name": "Clean Architecture Project by Tatsiana Kazliakouskaya",
+  "description": "Микросервис с Clean Architecture",
+  "shortName": "Capi",
+  "sourceName": "Capi",
+  "preferNameDirectory": true,
+  "tags": {
+      "language": "C#",
+      "type": "project"
+  }
+}
