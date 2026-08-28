@@ -66,15 +66,15 @@ dotnet run --project MyMicroservice.API
   ```
 - Обновить шаблон:
   ```bash
-  dotnet new install iksergey.cleanarchitecture.template --force
+  dotnet new install kozlyakovskaya-tatsiana.cleanarchitecture.template --force
   ```
 - Удалить шаблон:
   ```bash
-  dotnet new uninstall iksergey.cleanarchitecture.template
+  dotnet new uninstall kozlyakovskaya-tatsiana.cleanarchitecture.template
   ```
 - Удалить источник:
   ```bash
-  dotnet nuget remove source github-iksergey
+  dotnet nuget remove source github-kozlyakovskaya-tatsiana
   ```
 
 ## 📚 Дополнительные команды
